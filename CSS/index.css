@@ -3,3 +3,19 @@ header {
     text-align: center;
     padding: 1em;
 }
+
+nav {
+    padding: 1.5rem;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+nav a {
+    color: #666;
+    margin: 0 80px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #000;
+}
